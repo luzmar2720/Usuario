@@ -1,0 +1,20 @@
+.container{
+    height: 645px;
+    background-color:#AFCFCA;
+    width: 35%;
+    border-radius: 8%;
+    margin-top: 4rem;
+    text-align: left;
+}
+.inicio{
+    font-family: cursiveTrebuchet MS;
+    text-align: center;
+    color: rgb(231, 144, 14);
+
+}
+.lado{
+    margin-left: 18rem;
+}
+.liy{
+    margin-left: 11rem;
+}
